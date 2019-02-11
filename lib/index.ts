@@ -9,7 +9,6 @@ export default async function axiosRequest(config: any) : Promise<any> {
 
   let cancel: any;
   if(timeout) {
-    console.log({ timeout });
     config.cancelToken = new CancelToken(c => cancel = c);
     setTimeout(() => {
       cancel('timeout cancel', { timeout });
