@@ -1,7 +1,8 @@
 {
   "name": "@nelsonomuto/axios-request-timeout",
-  "version": "1.0.2",
-  "main": "index.js",
+  "version": "1.0.3",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "repository": "git@github.com:nelsonomuto/axios-request-timeout.git",
   "author": "Nelson Omuto <nelsonomuto@gmail.com>",
   "private": false,
