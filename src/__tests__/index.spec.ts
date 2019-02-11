@@ -1,4 +1,4 @@
-import axiosRequest from './axios-request';
+import axiosRequest from '../index';
 
 test('request', async () => {
   let resp = await axiosRequest({
