@@ -4,6 +4,7 @@
   "main": "index.js",
   "repository": "git@github.com:nelsonomuto/axios-request-timeout.git",
   "author": "Nelson Omuto <nelsonomuto@gmail.com>",
+  "private": false,
   "license": "MIT",
   "scripts": {
     "build": "tsc",
