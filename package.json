@@ -1,6 +1,6 @@
 {
   "name": "@nelsonomuto/axios-request-timeout",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": "git@github.com:nelsonomuto/axios-request-timeout.git",
@@ -12,6 +12,20 @@
     "test": "jest",
     "test:watch": "jest --watch"
   },
+  "keywords": [
+    "fetch",
+    "axios",
+    "axios-request-timeout",
+    "timeout",
+    "react",
+    "reactjs",
+    "angular",
+    "vuejs",
+    "nelsonomuto",
+    "javascript",
+    "nelson",
+    "omuto"
+  ],
   "devDependencies": {
     "@types/jest": "^24.0.0",
     "jest": "^24.1.0",
